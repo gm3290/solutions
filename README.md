@@ -5,3 +5,8 @@
 - [ZigZag Sequence (Python)](https://github.com/gm3290/solutions/blob/main/src/ZigZagSequence.py)
 - [Tower Breakers (Python)](https://github.com/gm3290/solutions/blob/main/src/TowerBreakers.py)
 - [Caesar Cipher (Python)](https://github.com/gm3290/solutions/blob/main/src/CaesarCipher.py)
+- [Palindrome Index (Python)](https://github.com/gm3290/solutions/blob/main/src/PalindromeIndex.py)
+- [Grid Challenge (Python)](https://github.com/gm3290/solutions/blob/main/src/GridChallenge.py)
+- [Recursive Digit Sum (Python)](https://github.com/gm3290/solutions/blob/main/src/RecursiveDigitSum.py)
+- [New Year Chaos (Python)](https://github.com/gm3290/solutions/blob/main/src/NewYearChaos.py)
+- [Truck Tour (Python)](https://github.com/gm3290/solutions/blob/main/src/TruckTour.py)
