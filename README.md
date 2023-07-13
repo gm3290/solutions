@@ -10,3 +10,7 @@
 - [Recursive Digit Sum (Python)](https://github.com/gm3290/solutions/blob/main/src/RecursiveDigitSum.py)
 - [New Year Chaos (Python)](https://github.com/gm3290/solutions/blob/main/src/NewYearChaos.py)
 - [Truck Tour (Python)](https://github.com/gm3290/solutions/blob/main/src/TruckTour.py)
+- [Merge two sorted linked lists (Python)](https://github.com/gm3290/solutions/blob/main/src/MergeTwoSortedLinkedLists.py)
+- [Queue using Two Stacks (Python)](https://github.com/gm3290/solutions/blob/main/src/QueueUsingTwoStacks.py)
+- [Balanced Brackets (Python)](https://github.com/gm3290/solutions/blob/main/src/BalancedBrackets.py)
+- [Lego Blocks (Python)](https://github.com/gm3290/solutions/blob/main/src/LegoBlocks.py)
