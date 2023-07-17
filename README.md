@@ -14,3 +14,4 @@
 - [Queue using Two Stacks (Python)](https://github.com/gm3290/solutions/blob/main/src/QueueUsingTwoStacks.py)
 - [Balanced Brackets (Python)](https://github.com/gm3290/solutions/blob/main/src/BalancedBrackets.py)
 - [Lego Blocks (Python)](https://github.com/gm3290/solutions/blob/main/src/LegoBlocks.py)
+- [Breadth First Search (Python)](https://github.com/gm3290/solutions/blob/main/src/BreadthFirstSearch.py)
